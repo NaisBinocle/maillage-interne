@@ -1,0 +1,5 @@
+node_modules/
+vendor/
+gutenberg/build/
+.env
+*.log
